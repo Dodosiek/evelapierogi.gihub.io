@@ -1,0 +1,15 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+body{
+    background-image: url("../essa.jpg");
+}
+.blok{
+    width: initial;
+    height: 872px;
+    background-color: white;
+    opacity: 60%;
+    display: flex;
+    text-align: center;
+}
